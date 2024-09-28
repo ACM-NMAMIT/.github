@@ -2,7 +2,7 @@
 
 # **ACM NMAMIT Student Chapter**
 
-Welcome to the official GitHub organization for the **NMAMIT ACM Student Chapter**. We are part of the **Association for Computing Machinery (ACM)**, the world’s largest educational and scientific computing society. Since our chapter's inception in **May 2015**, we have been committed to fostering a vibrant community where students from **CSE**, **ISE**, and **MCA** can collaborate, innovate, and excel in computing.
+Welcome to the official GitHub organization for the **NMAMIT ACM Student Chapter**. We are part of the **Association for Computing Machinery (ACM)**, the world’s largest educational and scientific computing society. Since our chapter's inception in **May 2015**, we have been committed to fostering a vibrant community where students from **All Streams** can collaborate, innovate, and excel in computing.
 
 ---
 
@@ -86,10 +86,10 @@ At ACM NMAMIT, we operate through a collaborative structure with dedicated teams
 
 Stay updated with our upcoming events, workshops, and projects through our social media and official communication channels:
 
-- **[ACM NMAMIT Website](https://acm.nmamit.com)** (Coming Soon)
-- **[Instagram](https://instagram.com/nmamit_acm)**
-- **[LinkedIn](https://www.linkedin.com/in/nmamit-acm)**
-- **[Twitter](https://twitter.com/nmamit_acm)**
+- **[ACM NMAMIT Website](https://nmamit.acm.org/)** (Coming Soon)
+- **[Instagram](https://www.instagram.com/acm_nitte/)**
+- **[LinkedIn](https://www.linkedin.com/company/acm-nmamit/)**
+
 
 ---
 
