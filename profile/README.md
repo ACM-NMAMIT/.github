@@ -96,7 +96,7 @@ Stay updated with our upcoming events, workshops, and projects through our socia
 ## 📞 **Contact Us**
 
 For any queries, collaborations, or membership information, feel free to reach out:
-- 📧 **Email**: acm.nmamit@gmail.com
+- 📧 **Email**: nnm22is104@nmamit.in
 - 📍 **Location**: NMAM Institute of Technology, Karnataka, India
 
 ---
