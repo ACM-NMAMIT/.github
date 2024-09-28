@@ -1,4 +1,4 @@
-# ![ACM NMAMIT](profile/ACM_Header.png)
+# ![ACM NMAMIT](ACM_Header.png)
 
 # **ACM NMAMIT Student Chapter**
 
